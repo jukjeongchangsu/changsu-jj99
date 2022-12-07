@@ -1,0 +1,7 @@
+﻿  소스.cpp
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512 도전\512 도전\소스.cpp(13,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'Student' 왼쪽은 무시됩니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512 도전\512 도전\소스.cpp(44,17): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512 도전\512 도전\소스.cpp(44,17): message : 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512 도전\512 도전\소스.cpp(44,17): message : 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512 도전\512 도전\소스.cpp(44,17): message : 이 인수는 버퍼 크기로 사용됩니다.
+  512 도전.vcxproj -> C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512 도전\x64\Debug\512 도전.exe

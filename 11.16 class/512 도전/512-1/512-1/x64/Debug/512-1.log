@@ -1,0 +1,53 @@
+﻿  소스.cpp
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(23,19): error C2664: 'void input_data(Student)': 인수 1을(를) 'Student [5]'에서 'Student'(으)로 변환할 수 없습니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(23,19): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(15,6): message : 'input_data' 선언을 참조하십시오.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(24,18): error C2664: 'void calc_data(Student)': 인수 1을(를) 'Student [5]'에서 'Student'(으)로 변환할 수 없습니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(24,18): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(16,6): message : 'calc_data' 선언을 참조하십시오.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(27,19): error C2664: 'void print_data(Student)': 인수 1을(를) 'Student [5]'에서 'Student'(으)로 변환할 수 없습니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(27,19): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(18,6): message : 'print_data' 선언을 참조하십시오.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(28,18): error C2664: 'void sort_data(Student)': 인수 1을(를) 'Student [5]'에서 'Student'(으)로 변환할 수 없습니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(28,18): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(17,6): message : 'sort_data' 선언을 참조하십시오.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(30,19): error C2664: 'void print_data(Student)': 인수 1을(를) 'Student [5]'에서 'Student'(으)로 변환할 수 없습니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(30,19): message : 소스 형식을 가져올 수 있는 생성자가 없거나 생성자 오버로드 확인이 모호합니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(18,6): message : 'print_data' 선언을 참조하십시오.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(42,24): error C2065: 'num': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(44,24): error C2065: 'name': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(46,30): error C2065: 'kor': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(46,36): error C2065: 'eng': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(46,42): error C2065: 'mat': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(55,8): error C2065: 'tot': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(55,14): error C2065: 'kor': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(55,20): error C2065: 'eng': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(55,26): error C2065: 'mat': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(56,8): error C2065: 'avg': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(56,14): error C2065: 'tot': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(57,13): error C2065: 'avg': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(57,26): error C2065: 'grade': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(58,18): error C2065: 'avg': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(58,31): error C2065: 'grade': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(59,18): error C2065: 'avg': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(59,31): error C2065: 'grade': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(60,14): error C2065: 'grade': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(74,22): error C2760: 구문 오류: 여기서 '.'은(는) 예상치 못한 오류였습니다. 예상된 오류는 '{'였습니다
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(74,23): error C2065: 'tot': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(74,32): error C2760: 구문 오류: 여기서 '.'은(는) 예상치 못한 오류였습니다. 예상된 오류는 '{'였습니다
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(74,33): error C2065: 'tot': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(74,36): error C2059: 구문 오류: ')'
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(75,13): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(81,25): error C2760: 구문 오류: 여기서 ';'은(는) 예상치 못한 오류였습니다. 예상된 오류는 '{'였습니다
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(82,13): error C2065: 'pary': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(82,25): error C2065: 'pary': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(82,32): error C2059: 구문 오류: ';'
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(83,13): error C2065: 'pary': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(93,11): error C2065: 'num': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(93,16): error C2065: 'name': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(93,22): error C2065: 'kor': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(93,26): error C2065: 'eng': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(94,12): error C2065: 'mat': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(94,17): error C2065: 'tot': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(94,22): error C2065: 'avg': 선언되지 않은 식별자입니다.
+C:\Users\akihi\OneDrive\문서\GitHub\changsu-jj99\11.16 class\512 도전\512-1\512-1\소스.cpp(94,27): error C2065: 'grade': 선언되지 않은 식별자입니다.
