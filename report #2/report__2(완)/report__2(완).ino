@@ -50,7 +50,7 @@ void loop()
    GenLEDDigitalOutput(nYellowPin, 130, nDelay);
    servo. write(120);
   }
-  else if((analogRead(potPin)>= 700) && (analogRead(potPin)<= 1023))
+  else if((analogRead(potPin)>= 750) && (analogRead(potPin)<= 1023))
   {
    GenLEDDigitalOutput(nWhitePin, 255, nDelay);
    GenLEDDigitalOutput(nYellowPin, 255, nDelay);
